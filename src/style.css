@@ -112,6 +112,7 @@ main {
     background-image: url("./img/css/light.png"); 
     background-repeat: no-repeat;
     background-position: right center;
+    background-size: 132px auto;
     flex: 1 1 auto;
     background-color: white;
     color: #2B283A;
